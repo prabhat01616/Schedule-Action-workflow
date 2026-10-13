@@ -9,4 +9,4 @@ jobs:
 
     steps:
       - name: Print Message
-      run: echo "Schedule workflow Executed"
+        run: echo "Schedule workflow Executed"
